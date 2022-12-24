@@ -1,5 +1,7 @@
 # VBA Homework: The VBA of Wall Street
-
+## Summary
+* A Module Challenge for University of Toronto's Data Analytics Bootcamp
+* Files present an exploratory analysis of dataset created by Trilogy Education Services, LLC using Excel VBA
 ## Background
 
 You are well on your way to becoming a programmer and Excel master! In this homework assignment, you will use VBA scripting to analyze generated stock market data. Depending on your comfort level with VBA, you may choose to challenge yourself with a few of the challenge tasks.
@@ -16,9 +18,7 @@ You are well on your way to becoming a programmer and Excel master! In this home
 
 * [Stock Data](Resources/Multiple_year_stock_data.xlsx) - Run your scripts on this data to generate the final homework report.
 
-### Stock Market Analyst
 
-![alt=""](Images/stockmarket.jpg)
 
 ## Instructions
 
@@ -36,13 +36,13 @@ Create a script that loops through all the stocks for one year and outputs the f
 
 The result should match the following image:
 
-![moderate_solution](Images/moderate_solution.png)
+
 
 ## Bonus
 
 Add functionality to your script to return the stock with the "Greatest % increase", "Greatest % decrease", and "Greatest total volume". The solution should match the following image:
 
-![hard_solution](Images/hard_solution.png)
+
 
 Make the appropriate adjustments to your VBA script to allow it to run on every worksheet (that is, every year) just by running the VBA script once.
 
